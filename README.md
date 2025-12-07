@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey there! I'm Milind, currently in my third year of Btech from IIIT Jabalpur. I am passionate full-stack developer who loves building scalable and intelligent applications. I have experience working with React, Next.js, Node.js, and Flutter, and I enjoy solving complex problems with AI and machine learning.<br><br>🔹 What I Do:<br><br>Develop interactive web and mobile apps<br><br>Build AI-powered solutions (computer vision, NLP)<br><br>Work on projects involving data visualization and cybersecurity<br><br>🔹 Projects I'm Proud Of:<br><br>Drowsiness Detection System 😴 (AI-powered real-time monitoring)<br><br>Secure USB39 🔐 (AES-encrypted USB security system)<br><br>I'm always exploring new technologies and collaborating on exciting projects. Let’s connect and build something awesome together! 🚀💡<br><br>📫 Reach me at: milind1179@gmail.com
+Hey there! I'm Milind, currently in my final year of Btech from IIIT Jabalpur. I am passionate full-stack developer who loves building scalable and intelligent applications. Reach me at: milind1179@gmail.com
 
 
 ## 🌐 Socials:
