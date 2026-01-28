@@ -1,4 +1,6 @@
-Hey there! I'm Milind, currently in my final year of Btech from IIIT Jabalpur. I am passionate full-stack developer who loves building scalable and intelligent applications. Reach me at: milind1179@gmail.com
+Hey there! I'm Milind, currently in my final year of Btech from IIIT Jabalpur. I am passionate full-stack developer who loves building scalable and intelligent applications.
+I am currently working as a full stack software development Engineering intern at Actual Inc.
+Reach me at: milind1179@gmail.com
 
 
 ## 🌐 Socials:
